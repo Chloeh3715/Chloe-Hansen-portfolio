@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ImpactLens | ESG Company Directory",
+  title: "Chloe Hansen | Portfolio",
   description:
-    "Explore a sustainability scorecard prototype with regional and sector filters.",
+    "Portfolio website for Chloe Hansen featuring projects, design work, and sustainability-focused research.",
 };
 
 export default function RootLayout({
