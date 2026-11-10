@@ -62,8 +62,10 @@ export default function Home() {
         <section id="contact" className="py-12">
           <p className="text-sm font-semibold uppercase tracking-[0.2em] text-[#4d5f58]">Contact</p>
           <h2 className="mt-3 text-3xl font-bold">Let’s connect</h2>
-          <p className="mt-4 text-[#40524c]">Replace this placeholder with your email address.</p>
-          <a href="mailto:you@example.com" className="mt-4 inline-block rounded-full border border-[#d8d0c8] bg-white px-5 py-3 text-sm font-semibold">you@example.com</a>
+          <div className="mt-6 flex flex-wrap gap-4">
+            <a href="mailto:Chloeh3715@gmail.com" className="inline-block rounded-full border border-[#d8d0c8] bg-white px-5 py-3 text-sm font-semibold text-[#1d1d1b]">Chloeh3715@gmail.com</a>
+            <a href="https://www.linkedin.com/in/chloe-hansen-a505a929b/" target="_blank" rel="noreferrer" className="inline-block rounded-full border border-[#d8d0c8] bg-white px-5 py-3 text-sm font-semibold text-[#1d1d1b]">LinkedIn</a>
+          </div>
         </section>
       </div>
     </main>
